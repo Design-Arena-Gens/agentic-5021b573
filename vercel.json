@@ -1,0 +1,7 @@
+{
+  "name": "agentic-5021b573",
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "github": { "enabled": false }
+}
